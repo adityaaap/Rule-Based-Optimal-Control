@@ -14,27 +14,27 @@ This projects implements the core algorithm given in the paper with a few simpli
 5. Algorithm for Optimization
 
 # Dynamics Model
-![image](./Images/model.png))
+![image](./Images/model.png)
 
 Model in form of affine control system
 
 # Cost Function
-![image](./Images/cost.png))
+![image](./Images/cost.png)
 
 It incorporates linear velocity, angular velocity, CLF slack variable, and 3 CBF slack variables
 
 # Control Lyapunov Function
-![image](./Images/clf.png))
+![image](./Images/clf.png)
 
 CLF is derived based on choosen Lyapunov Function. Here Lyapunov function is 2-norm of the error between states (current and reference at that time stamp)
 
 # Control Barrier Function
-![image](./Images/cbf.png))
+![image](./Images/cbf.png)
 
 There are 3 CBF functions for 3 constraints
 
 # Priority Structure and Algorithm
-![image](./Images/algo.png))
+![image](./Images/algo.png)
 
 We can see the priority structure of the rules(constraints).
 Further in the algorithm we iterate through the power set created and find the optimal trajectory.

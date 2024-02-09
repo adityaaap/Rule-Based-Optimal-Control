@@ -44,15 +44,21 @@ Further in the algorithm we iterate through the power set created and find the o
 
 # Results
 1. Scenario 1
-![image](./Images/scenario1.png))
+![image](./Images/scenario1.png)
+
+
 
 2. Scenario 2
-![image](./Images/scenario2.png))
+![image](./Images/scenario2.png)
+
+
 
 3. Scenario 3
-![image](./Images/scenario3.png))
+![image](./Images/scenario3.png)
+
+
 
 4. Scenario 4
-![image](./Images/scenario4.png))
+![image](./Images/scenario4.png)
 
 

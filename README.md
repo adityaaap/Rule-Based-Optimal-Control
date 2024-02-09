@@ -12,7 +12,7 @@ Link: https://arxiv.org/abs/2101.05709
 5. Algorithm for Optimization
 
 # Dynamics Model
-![image](./images/model.png))
+![image](./Images/model.png))
 
 
 

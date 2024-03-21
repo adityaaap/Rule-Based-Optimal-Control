@@ -6,6 +6,8 @@ Link: https://arxiv.org/abs/2101.05709
 
 This projects implements the core algorithm given in the paper with a few simplifications to dynamics model and modifications to optimization methods used. 
 
+Check out the C++ implementation at (under development): https://github.com/adityaaap/Optimization-IPOPT/blob/main/rule_based.cpp 
+
 # Approach
 1. Dynamics Model
 2. Cost Function
